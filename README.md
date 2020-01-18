@@ -31,4 +31,5 @@ Pertimbangan ketiga yaitu efisiensi dari **algoritma** itu sendiri. Efisiensi da
 
 Begitu pula dengan memori yang digunakan pada **algoritma**. Semakin besar kebutuhan memori yang terpakai untuk **algoritma** maka semakin buruk nilai **algoritma** tersebut. Walaupun demikian, pada kenyataannya masing-masing orang dapat membuat **algoritma** yang tidak sama dalam menyelesaikan sebuah permasalahan. Meski berbeda penyusunan **algoritma**, biasanya output yang diharapkan dari setiap langkahnya adalah sama.
 
-***sumber*** [bootup.ai](https://bootup.ai/blog/apa-itu-algoritma-pengertian-sejarah-dan-contohnya/)
+***sumber [bootup.ai](https://bootup.ai/blog/apa-itu-algoritma-pengertian-sejarah-dan-contohnya/)***
+***thanks to [hezbymuhammad](https://github.com/hezbymuhammad/)***
