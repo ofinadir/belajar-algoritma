@@ -3,7 +3,7 @@
  Gaji bersih = gaji pokok + tunjangan - pajak. Tunjangan adalah 25% dari gaji pokok, dan pajak adalah 10% dari gaji pokok dan tunjangan.
  Output dari program yaitu NIP, nama karyawan dan gaji bersih.)*
  
-DEKLARASI
+### DEKLARASI
 
 >**const** persenTunjangan = 0.25 {persenan tunjangan gaji}
 
@@ -15,7 +15,7 @@ DEKLARASI
 
 >gajiPokok, tunjangan, pajak, gajiBersih : **real**
 
-ALGORITMA
+### ALGORITMA
 
 >**read**(NIP, namaKaryawan, gajiPokok)
 
