@@ -34,4 +34,5 @@ Begitu pula dengan memori yang digunakan pada **algoritma**. Semakin besar kebut
 ---
 
 ***sumber [bootup.ai](https://bootup.ai/blog/apa-itu-algoritma-pengertian-sejarah-dan-contohnya/)***.
-***thanks to [hezbymuhammad](https://github.com/hezbymuhammad/)***.
+
+>***thanks for Markdown [hezbymuhammad](https://github.com/hezbymuhammad/)***.
