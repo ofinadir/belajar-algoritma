@@ -5,7 +5,7 @@
 
 *{a panjang, b lebar, c untuk menampung nilai persegi}*
 
-> 1 a, b, c : **integer**
+> a, b, c : **integer**
 
 ### ALGORITMA
 
